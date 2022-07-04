@@ -69,3 +69,5 @@ Et voila ! Profitez bien les amis !!!
 https://wpastra.com/pro/ <br>
 https://github.com/kilashoww
 
+<a href="https://wakatime.com/badge/github/kilashoww/astra-child"><img src="https://wakatime.com/badge/github/kilashoww/astra-child.svg" alt="wakatime"></a>
+
